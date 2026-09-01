@@ -66,3 +66,6 @@ Este repositório tem como objetivos:
 - 🗃️ Manter um histórico dos projetos desenvolvidos;
 - 🧠 Transformar conceitos teóricos em prática;
 - 📈 Construir um registro contínuo da minha formação em tecnologia.
+
+   <!-- DASHBOARD:START -->
+   <!-- DASHBOARD:END -->
