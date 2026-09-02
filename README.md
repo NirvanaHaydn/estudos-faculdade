@@ -68,4 +68,39 @@ Este repositório tem como objetivos:
 - 📈 Construir um registro contínuo da minha formação em tecnologia.
 
    <!-- DASHBOARD:START -->
-   <!-- DASHBOARD:END -->
+### 📋 [📚 Planejamento —  2026/2](https://github.com/users/NirvanaHaydn/projects/2)
+
+**Todo** (15)
+
+| Issue | Sprint | Estado |
+|---|---|---|
+| [#12 📘 1. Programação Modular](https://github.com/NirvanaHaydn/estudos-faculdade/issues/12) | - | OPEN |
+| [#14 Issue 2: Encapsulamento, Herança e Avaliação](https://github.com/NirvanaHaydn/estudos-faculdade/issues/14) | 💜 Sprint 2 — Fechamento U1 | OPEN |
+| [#15 Issue 3: Polimorfismo e Restrições (Início U2)](https://github.com/NirvanaHaydn/estudos-faculdade/issues/15) | 💙 Sprint 3 — Início U2 | OPEN |
+| [#16 Issue 4: Tipos Avançados e Arquitetura](https://github.com/NirvanaHaydn/estudos-faculdade/issues/16) | 💛 Sprint 4 — Reta Final | OPEN |
+| [#17 📙 2. Coleções Nativas e Tipos Abstratos](https://github.com/NirvanaHaydn/estudos-faculdade/issues/17) | - | OPEN |
+| [#19 Issue 2: Tipos Abstratos e Listas Dinâmicas](https://github.com/NirvanaHaydn/estudos-faculdade/issues/19) | 💜 Sprint 2 — Fechamento U1 | OPEN |
+| [#20 Issue 3: Estruturas Não-Lineares](https://github.com/NirvanaHaydn/estudos-faculdade/issues/20) | 💙 Sprint 3 — Início U2 | OPEN |
+| [#21 📗 3. Projeto de Banco de Dados](https://github.com/NirvanaHaydn/estudos-faculdade/issues/21) | - | OPEN |
+| [#23 Issue 2: Modelagem Conceitual 2 e Avaliação](https://github.com/NirvanaHaydn/estudos-faculdade/issues/23) | 💜 Sprint 2 — Fechamento U1 | OPEN |
+| [#24 Issue 3: Modelo Relacional (Início U2)](https://github.com/NirvanaHaydn/estudos-faculdade/issues/24) | 💙 Sprint 3 — Início U2 | OPEN |
+| [#25 Issue 4: Normalização e BDs Modernos](https://github.com/NirvanaHaydn/estudos-faculdade/issues/25) | 💛 Sprint 4 — Reta Final | OPEN |
+| [#26 📕 4. Redes de Computadores](https://github.com/NirvanaHaydn/estudos-faculdade/issues/26) | - | OPEN |
+| [#28 Issue 2: Transmissão e Avaliação](https://github.com/NirvanaHaydn/estudos-faculdade/issues/28) | 💜 Sprint 2 — Fechamento U1 | OPEN |
+| [#29 Issue 3: Modelo OSI (Início U2)](https://github.com/NirvanaHaydn/estudos-faculdade/issues/29) | 💙 Sprint 3 — Início U2 | OPEN |
+| [#30 Issue 4: Modelo TCP/IP](https://github.com/NirvanaHaydn/estudos-faculdade/issues/30) | 💛 Sprint 4 — Reta Final | OPEN |
+
+**Done** (1)
+
+| Issue | Sprint | Estado |
+|---|---|---|
+| [#13 Issue 1: Fundamentos de POO (Revisão Inicial)](https://github.com/NirvanaHaydn/estudos-faculdade/issues/13) | 🩷 Sprint 1 — Base | CLOSED |
+
+**In progress** (3)
+
+| Issue | Sprint | Estado |
+|---|---|---|
+| [#18 Issue 1: Estruturas Nativas e Avaliação](https://github.com/NirvanaHaydn/estudos-faculdade/issues/18) | 🩷 Sprint 1 — Base | OPEN |
+| [#22 Issue 1: Fundamentos e Modelagem Conceitual 1](https://github.com/NirvanaHaydn/estudos-faculdade/issues/22) | 🩷 Sprint 1 — Base | OPEN |
+| [#27 Issue 1: Fundamentos Físicos e Lógicos](https://github.com/NirvanaHaydn/estudos-faculdade/issues/27) | 🩷 Sprint 1 — Base | OPEN |
+<!-- DASHBOARD:END -->
