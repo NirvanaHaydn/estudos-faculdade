@@ -90,17 +90,17 @@ Este repositório tem como objetivos:
 | [#29 Issue 3: Modelo OSI (Início U2)](https://github.com/NirvanaHaydn/estudos-faculdade/issues/29) | 💙 Sprint 3 — Início U2 | OPEN |
 | [#30 Issue 4: Modelo TCP/IP](https://github.com/NirvanaHaydn/estudos-faculdade/issues/30) | 💛 Sprint 4 — Reta Final | OPEN |
 
-**Done** (1)
+**Done** (2)
 
 | Issue | Sprint | Estado |
 |---|---|---|
 | [#13 Issue 1: Fundamentos de POO (Revisão Inicial)](https://github.com/NirvanaHaydn/estudos-faculdade/issues/13) | 🩷 Sprint 1 — Base | CLOSED |
+| [#22 Issue 1: Fundamentos e Modelagem Conceitual 1](https://github.com/NirvanaHaydn/estudos-faculdade/issues/22) | 🩷 Sprint 1 — Base | CLOSED |
 
-**In progress** (3)
+**In progress** (2)
 
 | Issue | Sprint | Estado |
 |---|---|---|
 | [#18 Issue 1: Estruturas Nativas e Avaliação](https://github.com/NirvanaHaydn/estudos-faculdade/issues/18) | 🩷 Sprint 1 — Base | OPEN |
-| [#22 Issue 1: Fundamentos e Modelagem Conceitual 1](https://github.com/NirvanaHaydn/estudos-faculdade/issues/22) | 🩷 Sprint 1 — Base | OPEN |
 | [#27 Issue 1: Fundamentos Físicos e Lógicos](https://github.com/NirvanaHaydn/estudos-faculdade/issues/27) | 🩷 Sprint 1 — Base | OPEN |
 <!-- DASHBOARD:END -->
