@@ -177,3 +177,38 @@ Por fim, o **Projeto Físico do BD** define de que maneira o projeto lógico ser
 * **Resultado:** script DDL para o SGBD específico.
 * Melhoria da performance por meio da identificação de processos mais críticos.
 * Essa fase deve contar com a participação do DBA e do engenheiro de software.
+
+# Modelagem de Relacionamentos
+
+- Relacionamento é uma associação entre uma ou várias entidades com determinado significado.
+- Conjunto de associações entre ocorrências de entidades representadas por um losango nomeado.
+- **Cardinalidade:** propriedade do relacionamento que expressa o número de ocorrências de uma entidade que participa de um relacionamento com outras entidades. Pode ser um-para-um (técnico e time), um-para-muitos (proprietário e veículo), muitos-para-um (veículo e proprietário), muitos-para-muitos (paciente e médico, professor e aluno).
+- **Totalidade:** é a propriedade que especifica se a existência de uma entidade depende de seu relacionamento com outra entidade. Pode ser parcial (opcional) ou total (obrigatório). Ex.: sócio e dependente.
+- É fundamental consultar o usuário sobre as regras de negócio para as cardinalidades e totalidades.
+
+**Departamento → lotação → empregado**
+
+# Modelo de Entidades e Relacionamentos Estendido
+
+- **Entidades fracas:** tipos de entidades que não têm chaves próprias. As instâncias são identificadas por meio do relacionamento com entidades de outro tipo (identificador), juntamente com os valores de alguns atributos (chave parcial). Precisa da entidade forte para definir sua identidade.
+- **Entidade forte:** Banco / **Entidade fraca:** agência (depende do banco — depende da entidade forte para definir sua identidade).
+
+## Atributos de Relacionamento
+
+São atributos específicos derivados da associação.
+
+Na maioria das vezes, os relacionamentos são binários (grau 2), mas são possíveis também relacionamentos de maior grau. Mais comuns entre relacionamentos de muitos-para-muitos.
+
+- **Ex.:** Médico que tem uma ou várias consultas com o paciente; a data da consulta vai ser um atributo de relacionamento.
+
+## Grau de Relacionamento: Binário ou Ternário
+
+- Número de tipos de entidades participantes de um tipo de relacionamento.
+- Na maioria das vezes, os relacionamentos são binários.
+- As entidades participantes de um relacionamento atuam com um determinado papel nesse relacionamento.
+
+**Empregado → está_lotado → departamento**
+
+- Com frequência, é complicado decidir se um relacionamento deve ser representado como um tipo de relacionamento de grau N ou se deve ser desmembrado em vários tipos de relacionamentos de graus menores.
+- O projetista deverá basear essa decisão na semântica ou significado da situação em particular que está sendo representada.
+- O nome do relacionamento deve ser escolhido de maneira que seja possível ler da esquerda para a direita e de cima para baixo.
